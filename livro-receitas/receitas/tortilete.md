@@ -1,10 +1,10 @@
-#Ingredientes
+# Ingredientes
 
  - 3 colheres (sopa) de margarina
  - 500 g de farinha de trigo
  - 1 leite condensado
 
-#Modo de Preparo
+# Modo de Preparo
 
  1. Mexa com as mãos a farinha de trigo e a margarina até desgrudar totalmente das mãos.
  2. Após, modele nas forminhas de empada.
